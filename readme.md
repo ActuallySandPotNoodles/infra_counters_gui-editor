@@ -6,7 +6,7 @@ Also supports reading from the `[mapname]_metadata.txt` file that is made when y
 
 ![screenshot](screenshot.png)
 
-Made in Python btw
+Made in Python btw, also note that while this works on Linux, the INFRA counters mod doesn't really work very well on Linux
 
 ## Mapdata.txt isn't included in this software, it's available on the moddb page for the INFRA Counters Mod
 
